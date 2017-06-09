@@ -1,0 +1,9 @@
+﻿  Źródło.cpp
+c:\users\admin\documents\gk\spr9\zajecie9\źródło.cpp(449): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\admin\documents\gk\spr9\zajecie9\źródło.cpp(451): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\admin\documents\gk\spr9\zajecie9\źródło.cpp(461): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\admin\documents\gk\spr9\zajecie9\źródło.cpp(466): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+  targa.cpp
+  Generating Code...
+  Zajecie9.vcxproj -> C:\Users\Admin\Documents\GK\spr9\Debug\Zajecie9.exe
+  Zajecie9.vcxproj -> C:\Users\Admin\Documents\GK\spr9\Debug\Zajecie9.pdb (Partial PDB)
